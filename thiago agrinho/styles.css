@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho{
+    background-color: #83E509;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+.cabecalho-imagem{
+width: 10%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+
+.agricultura-imagem{
+    width: 25%;
+}
+
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+
+.Agricultura-familiar{
+background-image: linear-gradient(#83E509, #486623);
+color: white;
+display: flex;
+justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+    text-align: center;
+}
+.agricultura-familiar-div-conteudo{
+    width: 35%;
+}
+   .agricultura-titulo{
+    padding: 24px 0;
+   }
+
+   .imagem-agricultura {
+    width: 120px;
+   }
+   .segunda-imagem{
+    width: 120px;
+   }
+
+.terceira-imagem{
+    width: 120px;
+}
+.quarta-imagem{
+    width: 120px;
+}
+
+.quinta-imagem{
+    width: 120px;
+}
+.sexta-imagem{
+    width: 120px;
+}
+.setima-imagem{
+    width: 120px;
+}
+
+.oitava-imagem{
+    width: 120px;
+}
+    .Benefícios-titulo{
+        text-align: center;
+        padding: 50px 0;
+    }
+    
+    .agricultura-div{
+        text-align: center;
+    }
